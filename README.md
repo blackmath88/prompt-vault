@@ -46,4 +46,4 @@ Let's build this together!
 
 ---
 
-*"Sometimes the best consulting is just good prompts."* - Someone, probably
+
